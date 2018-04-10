@@ -8,3 +8,4 @@ git log - View recent commits
 
 # GitHub Commands
 git remote add origin <GitHub repo url> - creates repo on GitHub
+git push -u origin master - takes local commits on master branch and pushes them to GitHub
